@@ -1,4 +1,0 @@
-toto
-====
-
-.. mdinclude:: ../../README.md
