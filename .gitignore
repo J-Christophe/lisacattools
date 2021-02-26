@@ -130,3 +130,7 @@ dmypy.json
 
 # data
 *.h5
+
+# venv
+.lisacattools-env
+lisacattools-env/
