@@ -256,7 +256,7 @@ select the parameters to plot and scaling (linear or log) for each
 
     # arrange the plots into a grid of subplots
     ncols = 2
-    nrows = np.int(np.ceil(len(params) / ncols))
+    nrows = int(np.ceil(len(params) / ncols))
     fig = plt.figure(figsize=[10, 10], dpi=100)
 
     # plot the violin plot for each parameter
@@ -284,23 +284,13 @@ select the parameters to plot and scaling (linear or log) for each
     :class: sphx-glr-single-img
 
 
-.. rst-class:: sphx-glr-script-out
-
- Out:
-
- .. code-block:: none
-
-    /home/malapert/Documents/LISA/LISA MBH Catalogs/git/lisacattools/docs/examples_smbh/plot_source_time_evolving_violin.py:72: DeprecationWarning: `np.int` is a deprecated alias for the builtin `int`. To silence this warning, use `int` by itself. Doing this will not modify any behavior and is safe. When replacing `np.int`, you may wish to use e.g. `np.int64` or `np.int32` to specify the precision. If you wish to review your current use, check the release note link for additional information.
-    Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
-      nrows = np.int(np.ceil(len(params) / ncols))
-
 
 
 
 
 .. rst-class:: sphx-glr-timing
 
-   **Total running time of the script:** ( 0 minutes  15.784 seconds)
+   **Total running time of the script:** ( 0 minutes  16.241 seconds)
 
 
 .. _sphx_glr_download_examples_smbh_plot_source_time_evolving_violin.py:
