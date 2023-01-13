@@ -5,16 +5,16 @@
 
 Computation times
 =================
-**00:26.361** total execution time for **examples_smbh** files:
+**00:26.086** total execution time for **examples_smbh** files:
 
 +-------------------------------------------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_examples_smbh_plot_source_time_evolving_violin.py` (``plot_source_time_evolving_violin.py``) | 00:17.069 | 0.0 MB |
+| :ref:`sphx_glr_examples_smbh_plot_source_time_evolving_violin.py` (``plot_source_time_evolving_violin.py``) | 00:16.875 | 0.0 MB |
 +-------------------------------------------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_examples_smbh_plot_catalog_corner.py` (``plot_catalog_corner.py``)                           | 00:04.319 | 0.0 MB |
+| :ref:`sphx_glr_examples_smbh_plot_catalog_corner.py` (``plot_catalog_corner.py``)                           | 00:04.162 | 0.0 MB |
 +-------------------------------------------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_examples_smbh_plot_source_time_evolving.py` (``plot_source_time_evolving.py``)               | 00:03.351 | 0.0 MB |
+| :ref:`sphx_glr_examples_smbh_plot_source_time_evolving.py` (``plot_source_time_evolving.py``)               | 00:03.443 | 0.0 MB |
 +-------------------------------------------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_examples_smbh_plot_catalog_m1_m2.py` (``plot_catalog_m1_m2.py``)                             | 00:01.252 | 0.0 MB |
+| :ref:`sphx_glr_examples_smbh_plot_catalog_m1_m2.py` (``plot_catalog_m1_m2.py``)                             | 00:01.237 | 0.0 MB |
 +-------------------------------------------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_examples_smbh_plot_source_list.py` (``plot_source_list.py``)                                 | 00:00.370 | 0.0 MB |
+| :ref:`sphx_glr_examples_smbh_plot_source_list.py` (``plot_source_list.py``)                                 | 00:00.368 | 0.0 MB |
 +-------------------------------------------------------------------------------------------------------------+-----------+--------+
